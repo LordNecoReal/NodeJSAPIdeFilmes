@@ -145,6 +145,6 @@ Isso significa que:
 ---
 
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor(a)
 
 Desenvolvido para fins educacionais por Lord Neco.
