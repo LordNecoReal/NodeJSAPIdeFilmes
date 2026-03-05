@@ -93,6 +93,16 @@ Exemplo de resposta:
     "nome": "Karynne",
     "pet": "Lua"
   }
+  {
+    "id": 1,
+    "nome": "Fernanda",
+    "pet": "Théo"
+  },
+  {
+    "id": 3,
+    "nome": "Oswaldo",
+    "pet": "Julinho"
+  }
 ]
 ```
 
@@ -137,4 +147,4 @@ Isso significa que:
 
 ## 👩‍💻 Autora
 
-Desenvolvido para fins educacionais por Fernanda Correa.
+Desenvolvido para fins educacionais por Lord Neco.
